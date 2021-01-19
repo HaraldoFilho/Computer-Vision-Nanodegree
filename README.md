@@ -28,6 +28,6 @@ In this project, we will have to use sensor data to localize a robot and build a
 
 ## Labs
 
-### [Deep Learning with PyTorch](https://github.com/HaraldoFilho/Computer-Vision-Nanodegree/tree/master/PyTorch)
+### [Deep Learning with PyTorch](https://github.com/HaraldoFilho/Computer-Vision-Nanodegree/tree/master/Labs/PyTorch)
 
 Labs for lessons on how to use [PyTorch](https://pytorch.org/) for building deep learning models.
