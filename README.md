@@ -48,8 +48,8 @@ In this project, we will have to combine CNN and RNN knowledge to build a networ
 
 In this project, we will have to use sensor data to localize a robot and build a map of the environment with SLAM.
 
-## Extras
+## Labs
 
 ### [Deep Learning with PyTorch](https://github.com/HaraldoFilho/Computer-Vision-Nanodegree/tree/master/PyTorch)
 
-Lessons on how to use [PyTorch](https://pytorch.org/) for building deep learning models.
+Labs for lessons on how to use [PyTorch](https://pytorch.org/) for building deep learning models.
