@@ -3,36 +3,14 @@
 ## Core Curriculum
 
 - Introduction to Computer Vision
-  - Image Representation & Classification
-  - Convolutional Filters and Edge Detection
-  - Types of Features & Image Segmentation
-  - Feature Vectors
-  - CNN Layers and Feature Visualization
 - Advanced Computer Vision & Deep Learning
-  - Advanced CNN Architectures
-  - YOLO
-  - RNN's
-  - Long Short-Term Memory Networks (LSTMs)
-  - Hyperparameters
-  - Image Captioning  
 - Object Tracking and Localization
-  - Introduction to Motion
-  - Robot Localization
-  - Introduction to Kalman Filters
-  - Representing State and Motion
-  - Matrices and Transformation of State
-  - Simultaneous Localization and Mapping
   
 ## Extra Curricular
 
-- Applications of Computer Vision and Deep Learning
-- Review: Training A Neural Network
-  - Feedforward and Backpropagation
-  - Training Neural Networks
-  - Deep Learning with PyTorch
- - Skin Cancer Detection
- - Text Sentiment Analysis
- - Fully-Convolutional Neural Networks and Semantic
+- Feedforward and Backpropagation
+- Training Neural Networks
+- Deep Learning with PyTorch
  
 ## Projects
 
