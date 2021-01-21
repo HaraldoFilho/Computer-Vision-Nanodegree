@@ -1,4 +1,5 @@
 __pycache__
+*.zip
 data
 saved_models
 References
