@@ -16,5 +16,4 @@ In this project, we have to use image processing techniques and deep learning to
 
 #### Project Status
 
-On Going
-
+In Review
