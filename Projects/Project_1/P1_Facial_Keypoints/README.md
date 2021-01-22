@@ -4,7 +4,7 @@
 
 ### **Project 1**
 
-In this project, we have to use image processing techniques and deep learning to recognize faces and facial keypoints, such as the location of the eyes and mouth on a face.
+In this project, we had to use image processing techniques and deep learning to recognize faces and facial keypoints, such as the location of the eyes and mouth on a face.
 
 #### Topics covered
 
