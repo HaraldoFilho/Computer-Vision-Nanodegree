@@ -16,4 +16,9 @@ In this project, we have to use image processing techniques and deep learning to
 
 #### Project Status
 
-In Review
+Completed
+
+#### Project Review
+
+- Submission 1: [Requires Changes](https://review.udacity.com/#!/reviews/2711823)
+- Submission 2: [Meets Specifications](https://review.udacity.com/#!/reviews/2712629)
