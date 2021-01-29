@@ -8,8 +8,6 @@
   
 ## Extra Curricular
 
-- Feedforward and Backpropagation
-- Training Neural Networks
 - Deep Learning with PyTorch
  
 ## Projects
