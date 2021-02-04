@@ -3,8 +3,25 @@
 ## Core Curriculum
 
 - Introduction to Computer Vision
+  - Image Representation and Classification 🗸
+  - Convolutional Filters and Edge Detection 🗸
+  - Types of Features and Image Segmentation 🗸
+  - Feature Vectors 🗸
+  - CNN Layers and Features Visualization 🗸
 - Advanced Computer Vision & Deep Learning
+  - Advanced CNN Architetures 🗸
+  - YOLO 🗸
+  - RNN's 🠔
+  - Long Short-Term Memory Networks (LSTMs)
+  - Hyperparameters
+  - Image Captioning
 - Object Tracking and Localization
+  - Introduction to Motion
+  - Robot Localization
+  - Introduction to Calman Filters
+  - Representing State and Motion
+  - Matrices and Transformation of State
+  - Simultaneous Localization and Mapping
   
 ## Extra Curricular
 
@@ -12,7 +29,7 @@
  
 ## Projects
 
-### Project 1: [Facial Keypoint Detection](Projects/Project_1/P1_Facial_Keypoints)
+### Project 1: [Facial Keypoint Detection](Projects/Project_1/P1_Facial_Keypoints) 🗸
 
 In this project, we have to use image processing techniques and deep learning to recognize faces and facial keypoints, such as the location of the eyes and mouth on a face.
 
