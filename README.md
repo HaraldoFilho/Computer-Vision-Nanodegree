@@ -11,8 +11,8 @@
 - Advanced Computer Vision & Deep Learning
   - Advanced CNN Architetures 🗸
   - YOLO 🗸
-  - RNN's 🠔
-  - Long Short-Term Memory Networks (LSTMs)
+  - RNN's 🗸
+  - Long Short-Term Memory Networks (LSTMs) 🠔
   - Hyperparameters
   - Image Captioning
 - Object Tracking and Localization
