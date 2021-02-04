@@ -7,7 +7,7 @@
   - Convolutional Filters and Edge Detection 🗸
   - Types of Features and Image Segmentation 🗸
   - Feature Vectors 🗸
-  - CNN Layers and Features Visualization 🗸
+  - CNN Layers and Feature Visualization 🗸
 - Advanced Computer Vision & Deep Learning
   - Advanced CNN Architetures 🗸
   - YOLO 🗸
@@ -18,7 +18,7 @@
 - Object Tracking and Localization
   - Introduction to Motion
   - Robot Localization
-  - Introduction to Calman Filters
+  - Introduction to Kalman Filters
   - Representing State and Motion
   - Matrices and Transformation of State
   - Simultaneous Localization and Mapping
