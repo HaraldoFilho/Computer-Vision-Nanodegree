@@ -12,8 +12,8 @@
   - Advanced CNN Architetures 🗸
   - YOLO 🗸
   - RNN's 🗸
-  - Long Short-Term Memory Networks (LSTMs) 🠔
-  - Hyperparameters
+  - Long Short-Term Memory Networks (LSTMs) 🗸
+  - Hyperparameters 🠔
   - Image Captioning
 - Object Tracking and Localization
   - Introduction to Motion
