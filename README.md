@@ -13,8 +13,8 @@
   - YOLO 🗸
   - RNN's 🗸
   - Long Short-Term Memory Networks (LSTMs) 🗸
-  - Hyperparameters 🠔
-  - Image Captioning
+  - Hyperparameters 🗸
+  - Image Captioning 🠔
 - Object Tracking and Localization
   - Introduction to Motion
   - Robot Localization
