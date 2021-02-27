@@ -8,8 +8,6 @@ In this project, we will have to combine CNN and RNN knowledge to build a networ
 
 #### Topics covered
 
-- Advanced CNN Architectures
-- YOLO
 - RNN's
 - Long Short-Term Memory Networks (LSTMs)
 - Hyperparameters
