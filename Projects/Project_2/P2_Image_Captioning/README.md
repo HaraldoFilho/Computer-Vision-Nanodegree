@@ -15,4 +15,5 @@ In this project, we will have to combine CNN and RNN knowledge to build a networ
 
 #### Project Status
 
-On Going
+Submitted
+
