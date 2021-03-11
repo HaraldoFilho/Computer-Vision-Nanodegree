@@ -15,5 +15,8 @@ In this project, we will have to combine CNN and RNN knowledge to build a networ
 
 #### Project Status
 
-Submitted
+Completed
 
+#### Project Review
+
+[Meets Specifications](https://review.udacity.com/#!/reviews/2804691)
