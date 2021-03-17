@@ -16,8 +16,9 @@
   - Hyperparameters 🗸
   - Image Captioning 🗸
 - Object Tracking and Localization
-  - Introduction to Motion 🠔
-  - Robot Localization
+  - Introduction to Motion 🗸
+  - Robot Localization 🗸
+  - Mini Project: 2D Histogram Filter 🠔
   - Introduction to Kalman Filters
   - Representing State and Motion
   - Matrices and Transformation of State
