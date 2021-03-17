@@ -18,8 +18,7 @@
 - Object Tracking and Localization
   - Introduction to Motion 🗸
   - Robot Localization 🗸
-  - Mini Project: 2D Histogram Filter 🠔
-  - Introduction to Kalman Filters
+  - Introduction to Kalman Filters 🠔
   - Representing State and Motion
   - Matrices and Transformation of State
   - Simultaneous Localization and Mapping
@@ -49,3 +48,8 @@ Exercises on Extra Curricular content or topics not covered on the projects
 ### [Deep Learning with PyTorch](https://github.com/HaraldoFilho/Computer-Vision-Nanodegree/tree/master/Labs/PyTorch)
 
 Labs for lessons on how to use [PyTorch](https://pytorch.org/) for building deep learning models.
+
+### [Mini Project: 2D Histogram Filter](https://github.com/HaraldoFilho/Computer-Vision-Nanodegree/tree/master/Labs/MiniProject)
+
+Mini-Project about Robot Localization.
+
