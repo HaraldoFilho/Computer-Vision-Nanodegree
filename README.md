@@ -20,8 +20,8 @@
   - Robot Localization 🗸
   - Introduction to Kalman Filters 🗸
   - Representing State and Motion 🗸
-  - Matrices and Transformation of State 🠔
-  - Simultaneous Localization and Mapping
+  - Matrices and Transformation of State 🗸
+  - Simultaneous Localization and Mapping 🠔
   
 ## Extra Curricular
 

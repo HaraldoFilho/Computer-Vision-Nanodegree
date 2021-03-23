@@ -8,9 +8,9 @@ In this project, we will have to use sensor data to localize a robot and build a
 
 #### Topics covered
 
-- Introduction to Motion
+- Motion
 - Robot Localization
-- Introduction to Kalman Filters
+- Kalman Filters
 - Representing State and Motion
 - Matrices and Transformation of State
 - Simultaneous Localization and Mapping
