@@ -21,7 +21,7 @@
   - Introduction to Kalman Filters 🗸
   - Representing State and Motion 🗸
   - Matrices and Transformation of State 🗸
-  - Simultaneous Localization and Mapping 🠔
+  - Simultaneous Localization and Mapping 🗸
   
 ## Extra Curricular
 
@@ -37,7 +37,7 @@ In this project, we have to use image processing techniques and deep learning to
 
 In this project, we will have to combine CNN and RNN knowledge to build a network that automatically produces captions, given an input image.
 
-### Project 3: [Landmark Detection & Tracking](Projects/Project_3/P3_Landmark_Detection_and_Tracking)
+### Project 3: [Landmark Detection & Tracking](Projects/Project_3/P3_Landmark_Detection_and_Tracking) 🠔
 
 In this project, we will have to use sensor data to localize a robot and build a map of the environment with SLAM.
 
