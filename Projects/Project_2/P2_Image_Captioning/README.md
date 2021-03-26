@@ -4,7 +4,7 @@
 
 ### **Project 2**
 
-In this project, we will have to combine CNN and RNN knowledge to build a network that automatically produces captions, given an input image.
+In this project, we had to combine CNN and RNN knowledge to build a network that automatically produces captions, given an input image.
 
 #### Topics covered
 

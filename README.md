@@ -31,11 +31,11 @@
 
 ### Project 1: [Facial Keypoint Detection](Projects/Project_1/P1_Facial_Keypoints) 🗸
 
-In this project, we have to use image processing techniques and deep learning to recognize faces and facial keypoints, such as the location of the eyes and mouth on a face.
+In this project, we had to use image processing techniques and deep learning to recognize faces and facial keypoints, such as the location of the eyes and mouth on a face.
 
 ### Project 2: [Image Captioning](Projects/Project_2/P2_Image_Captioning) 🗸
 
-In this project, we will have to combine CNN and RNN knowledge to build a network that automatically produces captions, given an input image.
+In this project, we had to combine CNN and RNN knowledge to build a network that automatically produces captions, given an input image.
 
 ### Project 3: [Landmark Detection & Tracking](Projects/Project_3/P3_Landmark_Detection_and_Tracking) 🠔
 
