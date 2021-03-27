@@ -12,15 +12,15 @@
  
 ## Projects
 
-### Project 1: [Facial Keypoint Detection](Projects/Project_1/P1_Facial_Keypoints) 🗸
+### Project 1: [Facial Keypoint Detection](Projects/Project_1/P1_Facial_Keypoints)
 
 In this project, we had to use image processing techniques and deep learning to recognize faces and facial keypoints, such as the location of the eyes and mouth on a face.
 
-### Project 2: [Image Captioning](Projects/Project_2/P2_Image_Captioning) 🗸
+### Project 2: [Image Captioning](Projects/Project_2/P2_Image_Captioning)
 
 In this project, we had to combine CNN and RNN knowledge to build a network that automatically produces captions, given an input image.
 
-### Project 3: [Landmark Detection & Tracking](Projects/Project_3/P3_Landmark_Detection_and_Tracking) 🠔
+### Project 3: [Landmark Detection & Tracking](Projects/Project_3/P3_Landmark_Detection_and_Tracking)
 
 In this project, we had to use sensor data to localize a robot and build a map of the environment with SLAM.
 
@@ -35,4 +35,8 @@ Labs for lessons on how to use [PyTorch](https://pytorch.org/) for building deep
 ### [Mini Project: 2D Histogram Filter](https://github.com/HaraldoFilho/Computer-Vision-Nanodegree/tree/master/Labs/MiniProject)
 
 Mini-Project about Robot Localization.
+
+## Certificate
+
+Click [here](https://confirm.udacity.com/AGL9CCHF) to see the certificate
 
