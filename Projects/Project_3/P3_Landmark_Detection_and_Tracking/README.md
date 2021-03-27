@@ -4,7 +4,7 @@
 
 ### **Project 3**
 
-In this project, we will have to use sensor data to localize a robot and build a map of the environment with SLAM.
+In this project, we had to use sensor data to localize a robot and build a map of the environment with SLAM.
 
 #### Topics covered
 
@@ -17,4 +17,8 @@ In this project, we will have to use sensor data to localize a robot and build a
 
 #### Project Status
 
-Not started
+Completed
+
+#### Project Review
+
+[Meets Specifications](https://review.udacity.com/#!/reviews/2843205)

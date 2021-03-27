@@ -3,25 +3,8 @@
 ## Core Curriculum
 
 - Introduction to Computer Vision
-  - Image Representation and Classification 🗸
-  - Convolutional Filters and Edge Detection 🗸
-  - Types of Features and Image Segmentation 🗸
-  - Feature Vectors 🗸
-  - CNN Layers and Feature Visualization 🗸
 - Advanced Computer Vision & Deep Learning
-  - Advanced CNN Architetures 🗸
-  - YOLO 🗸
-  - RNN's 🗸
-  - Long Short-Term Memory Networks (LSTMs) 🗸
-  - Hyperparameters 🗸
-  - Image Captioning 🗸
 - Object Tracking and Localization
-  - Introduction to Motion 🗸
-  - Robot Localization 🗸
-  - Introduction to Kalman Filters 🗸
-  - Representing State and Motion 🗸
-  - Matrices and Transformation of State 🗸
-  - Simultaneous Localization and Mapping 🗸
   
 ## Extra Curricular
 
@@ -39,7 +22,7 @@ In this project, we had to combine CNN and RNN knowledge to build a network that
 
 ### Project 3: [Landmark Detection & Tracking](Projects/Project_3/P3_Landmark_Detection_and_Tracking) 🠔
 
-In this project, we will have to use sensor data to localize a robot and build a map of the environment with SLAM.
+In this project, we had to use sensor data to localize a robot and build a map of the environment with SLAM.
 
 ## Labs
 
