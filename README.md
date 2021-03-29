@@ -32,9 +32,13 @@ Exercises on Extra Curricular content or topics not covered on the projects
 
 Labs for lessons on how to use [PyTorch](https://pytorch.org/) for building deep learning models.
 
-### [Mini Project: 2D Histogram Filter](https://github.com/HaraldoFilho/Computer-Vision-Nanodegree/tree/master/Labs/MiniProject)
+### [2D Histogram Filter](https://github.com/HaraldoFilho/Computer-Vision-Nanodegree/tree/master/Labs/2D-Histogram-Filter)
 
 Mini-Project about Robot Localization.
+
+### [Vehicle Motion](https://github.com/HaraldoFilho/Computer-Vision-Nanodegree/tree/master/Labs/Vehicle-Motion)
+
+Lab for optional lesson about Vehicle Motion.
 
 ## Certificate
 
