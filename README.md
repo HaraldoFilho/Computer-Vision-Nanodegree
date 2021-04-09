@@ -9,6 +9,9 @@
 ## Extra Curricular
 
 - Deep Learning with PyTorch
+- Fully-Convolutional Neural Networks & Semantic Segmentation
+- Deep Learning for Cancer Detection
+- C++ Programming
  
 ## Projects
 
